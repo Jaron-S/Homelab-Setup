@@ -25,7 +25,7 @@ This project focuses on building a secure and comprehensive homelab environment 
 
 * **DNS Server (PiHole)**: A DNS-based ad-blocking system for enhanced privacy and performance.
 
-#### VMware ESXi (Bare Metal) (Management Network - VLAN 40)
+#### Proxmox (Management Network - VLAN 40)
 
 * **Splunk VM (Linux)** (Security Network - VLAN 50): A dedicated Linux virtual machine running Splunk Enterprise for log aggregation and monitoring.
 * **Windows Server VM** (Main Network - VLAN 10): 
