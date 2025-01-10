@@ -64,7 +64,7 @@ This project focuses on building a secure and comprehensive homelab environment 
 
 #### Virtualization
 
-* **VMware ESXi**: Bare-metal hypervisor. 
+* **Proxmox**: Bare-metal hypervisor. 
 
 ---
 
@@ -88,9 +88,9 @@ This project focuses on building a secure and comprehensive homelab environment 
   curl -sSL https://install.pi-hole.net | bash
   ```
 
-#### 3. VMware ESXi Setup
+#### 3. Proxmox Setup
 
-* Install VMware ESXi on the bare-metal server.
+* Install Proxmox on the bare-metal server.
 * **Splunk VM**:
     * Deploy a new Linux VM (e.g., Ubuntu Server) on ESXi.
     * Download the Splunk Enterprise for Linux installer.
